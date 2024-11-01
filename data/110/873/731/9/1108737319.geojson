@@ -11,7 +11,7 @@
     "geom:longitude":31.283481,
     "iso:country":"RU",
     "label:eng_x_preferred_longname":[
-        "Velikij Nov District"
+        "Novgorod District"
     ],
     "label:eng_x_preferred_placetype":[
         "district"
@@ -57,10 +57,10 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Velikij Nov"
+        "Veliky Novgorod"
     ],
     "name:eng_x_variant":[
-        "Velikiy Novgorod"
+        "Novgorod"
     ],
     "name:fra_x_preferred":[
         "Veliky Novgorod"
@@ -84,9 +84,9 @@
     "statoids:type":"gorsovet",
     "wof:belongsto":[
         102191581,
-        85688095,
         85632685,
-        874393555
+        874393555,
+        85688095
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +100,7 @@
     ],
     "wof:country":"RU",
     "wof:created":1478903681,
-    "wof:geomhash":"7cd188775565c1433aa330eda8cc81de",
+    "wof:geomhash":"835f8f5f672c8f94c5bc4ec87f5254b9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -111,8 +111,8 @@
         }
     ],
     "wof:id":1108737319,
-    "wof:lastmodified":1695886421,
-    "wof:name":"Velikij Nov",
+    "wof:lastmodified":1730483468,
+    "wof:name":"Velikj Novgorod",
     "wof:parent_id":85688095,
     "wof:placetype":"county",
     "wof:placetype_local":"district",
